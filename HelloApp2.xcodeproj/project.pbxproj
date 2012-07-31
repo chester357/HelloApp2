@@ -23,15 +23,15 @@
 		1046BB8D15C85E3600F064CF /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		1046BB8F15C85E3600F064CF /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		1046BB9115C85E3600F064CF /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		1046BB9515C85E3600F064CF /* HelloApp2-Info.plist */ = {isa = PBXFileReference; path = "HelloApp2-Info.plist"; sourceTree = "<group>"; };
+		1046BB9515C85E3600F064CF /* HelloApp2-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "HelloApp2-Info.plist"; sourceTree = "<group>"; };
 		1046BB9715C85E3600F064CF /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		1046BB9915C85E3600F064CF /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		1046BB9B15C85E3600F064CF /* HelloApp2-Prefix.pch */ = {isa = PBXFileReference; path = "HelloApp2-Prefix.pch"; sourceTree = "<group>"; };
-		1046BB9C15C85E3600F064CF /* AppDelegate.h */ = {isa = PBXFileReference; path = AppDelegate.h; sourceTree = "<group>"; };
+		1046BB9B15C85E3600F064CF /* HelloApp2-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "HelloApp2-Prefix.pch"; sourceTree = "<group>"; };
+		1046BB9C15C85E3600F064CF /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		1046BB9D15C85E3600F064CF /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		1046BBA015C85E3600F064CF /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard_iPhone.storyboard; sourceTree = "<group>"; };
 		1046BBA315C85E3600F064CF /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard_iPad.storyboard; sourceTree = "<group>"; };
-		1046BBA515C85E3600F064CF /* ViewController.h */ = {isa = PBXFileReference; path = ViewController.h; sourceTree = "<group>"; };
+		1046BBA515C85E3600F064CF /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		1046BBA615C85E3600F064CF /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
